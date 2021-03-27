@@ -1,1 +1,1 @@
-<?php include_once("beranda.html");
+<?php include_once("../html/beranda.html");
